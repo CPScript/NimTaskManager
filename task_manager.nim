@@ -110,5 +110,4 @@ proc main() =
     else:
       echo " Invalid option, please try again."
 
-# Run the main procedure
 main()
